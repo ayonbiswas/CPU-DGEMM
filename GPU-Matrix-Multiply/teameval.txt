@@ -1,0 +1,69 @@
+                       CSE 260, Parallel Computation
+                                (Fall 2020)
+                Department of Computer Science and Engineering 	
+                     University of California, San Diego 	
+
+
+		Team Self Evaluation Form, Assignment #2
+
+Each team must submit one copy of this self evaluation form. 
+The members of each team should discuss how they
+worked together and what to write for the evaluation.
+
+(1) List the names of your team members:
+
+A: Ayon Biswas
+
+ 
+B: Robert Herndon
+
+ 
+ 
+(2) Estimate how much time each team member devoted to this project, in HOURS.
+
+  	                        A 	       B
+meetings 	  	  	6		6
+coding 	  	  	 	20		20
+writeup 	  	  	10		10
+planning (alone) 	  	4	 	4
+total (including meetings) 	40	  	40
+
+
+(3) Describe 
+  (a) what the major responsibilities of each team member were;
+	A: I developed and optimised the 2D tiling kernel, along with the cutlass-like kernel. Aditionally, I contributed to report writing.
+
+	B: My major responsibilities were developing 2D interleaving on my own branch, which was not used in the final kernel, but may have insprired it.
+	Additionally, I generated the majority of tables in the report, all but one graph, and approximately 3/8 of the writing.
+
+  (b) whether or not you completed the assignment;
+	The assignment was completed on time
+
+  (c) the major strengths and weaknesses in your team, e.g. how
+      your team worked together;
+	A: My partner always responded and coordinated quickly. We are both late-night people, so we always used to work together.
+	Weakness is I should have realised the gravity and the difficulty of the assignment and should have started early.
+
+	B: My partner worked varily thoroughly and provided excellent outputs with precision. I work quickly and on the fly.
+	Our strengths were every option was explored to find the best possible performance.
+	A weakness may be time management, where we started fairly late into the assignment.
+
+  (d) the lessons learned from these events;
+	A: Learnt that higher thread parallelism can cripple performance.
+	Learnt about thread hierarchy and how to map block hierarchy to thread hierarchy.
+
+	B: I enjoyed learning CUDA programming and the ability to program GPU's efficiently.
+	Pointers are always faster than Arrays.
+	Taking time to extract performance is always beneficial.
+
+  (e) whether and how you plan to change the way your work together and
+	A: would start early
+
+	B: I would like to have started on the program a little earlier, to have more time of less stress.
+
+  (f) anything else that comes to mind.
+	A: N/A
+
+	B: N/A
+
+
