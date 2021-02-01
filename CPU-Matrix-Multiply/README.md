@@ -4,8 +4,8 @@ Description
 ===========
 In this project, we use our knowledge of the memory hierarchy and vectorization to optimize a matrix multiply routine. We compare it with BLAS, which is an optimized basic linear algebra subroutine. We optimize our code for maximum performance on one core of an Amazon EC2 t2.micro instance.
 
-![Screenshot](performance.png | width=100)
-<img src="performance.png" width="48">
+<img src="performance.png" width="100">
+
 Code organization
 =================
 * blislab/bl_dgemm_ukr.c - implements AVX2 microkernel
