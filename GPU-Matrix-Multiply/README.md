@@ -6,8 +6,8 @@ In this project, we use our knowledge of the thread hierarchy and mapping to opt
 Sorken cluster with 2 GK210 GPUs. 
 
 <img src="thread_overview.png" width="700">
-<img src="performance.png" width="700">
-<img src="roofline.png" width="700">
+<img src="performance.png" width="500">
+<img src="roofline.png" width="500">
 
 Code organization
 =================
