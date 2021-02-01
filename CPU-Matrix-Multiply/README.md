@@ -13,7 +13,7 @@ Code organization
 
 Results
 =======
-<img src="performance.png" width="500">
+<img src="performance.png" width="600">
 
 Acknowledgements
 ================
